@@ -1,2 +1,39 @@
-# Epistemic-Violence-or-Simply-Good-Marketing
-This essay critiques how university marketing, rankings, and promotional narratives may perpetuate epistemic violence by silencing plural knowledges, urging institutions to recognise their fiduciary epistemic duties and adopt inclusive practices.
+# Epistemic Violence or Simply Good Marketing?
+
+### Why University Marketing May Not Be So Innocent
+
+![alt text](https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/blob/main/top-ten.jpg?raw=true)
+
+by Peter Kahl, 11 June 2025\
+2nd Edition 18 August 2025
+
+---
+
+### Abstract
+
+This essay interrogates the ethical and epistemic consequences of university marketing practices, particularly their reliance on rankings and promotional narratives. While such strategies are often presented as neutral or necessary tools for competition, they risk enacting subtle forms of epistemic violence by privileging quantifiable metrics and marginalising alternative forms of knowledge. Drawing on the concepts of epistemic injustice and fiduciary epistemic duties, the analysis highlights how institutional messaging can narrow the frameworks of what counts as valuable scholarship, thereby silencing plural epistemologies, especially those rooted in the humanities and historically marginalised groups. The essay proposes that universities, as fiduciary stewards of knowledge, should adopt practices of epistemic mindfulness and undertake regular epistemic audits to ensure inclusive and responsible knowledge governance. By situating the discussion within global ethical traditions, the piece advances a normative framework for universities to move beyond marketing imperatives towards epistemic justice.
+
+### Keywords
+
+epistemic violence, epistemic injustice, fiduciary epistemic duties, university marketing, higher education, rankings, epistemic exclusion, hermeneutical injustice, testimonial injustice, epistemic audits, institutional responsibility, knowledge governance, plural epistemologies, academic ethics
+
+---
+
+### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/master/Kahl_P_Epistemic_Violence_or_Simply_Good_Marketing_v2_18-AUG-2025.pdf)
+
+### Cite this work:
+
+```
+Peter Kahl, Epistemic Violence or Simply Good Marketing? Why University Marketing May Not Be So Innocent (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing>
+```
+
+### Publisher & Licence
+
+First published in Great Britain by Peter Kahl on 10 June 2025.\
+2nd edition published by Lex et Ratio Ltd on 18 August 2025.
+
+© 2025 Lex et Ratio Ltd. Licensed under Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0).
+
+You are free to share — copy and redistribute the material in any medium or format — under the following terms: attribution required; non-commercial use only; no modifications permitted. Full licence text at <https://creativecommons.org/licenses/by-nc-nd/4.0/>.
