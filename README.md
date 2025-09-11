@@ -2,12 +2,9 @@
 
 ### Why University Marketing May Not Be So Innocent
 
+by Peter Kahl, 10 June 2025
+
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/blob/main/top-ten.jpg?raw=true)
-
-by Peter Kahl, 11 June 2025\
-2nd Edition 18 August 2025
-
----
 
 ### Abstract
 
@@ -19,14 +16,14 @@ epistemic violence, epistemic injustice, fiduciary epistemic duties, university 
 
 ---
 
-### Download this scholarly work in its entirety as a PDF, or for sharing and citation:
+### Download Latest Edition
 
 - [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/master/Kahl_P_Epistemic_Violence_or_Simply_Good_Marketing_v2_18-AUG-2025.pdf)
 
-### Cite this work:
+### Cite this work
 
 ```
-Peter Kahl, Epistemic Violence or Simply Good Marketing? Why University Marketing May Not Be So Innocent (2nd edn, Lex et Ratio Ltd 2025) <https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing>
+Kahl, P. (2025). Epistemic Violence or Simply Good Marketing? Why University Marketing May Not Be So Innocent. (2nd ed.). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing
 ```
 
 ### Publisher & Licence
