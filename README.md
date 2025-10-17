@@ -4,7 +4,7 @@
 
 by Peter Kahl, 2025-06-10; v2: 2025-08-18
 
-[![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17378350.svg)](https://doi.org/10.5281/zenodo.17378350) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
 ![alt text](https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/blob/main/top-ten.jpg?raw=true)
 
@@ -20,16 +20,17 @@ epistemic injustice, epistemic violence, fiduciary ethics, fiduciary epistemic s
 
 ## Download
 
-- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/master/Kahl_P_Epistemic_Violence_or_Simply_Good_Marketing_v2_18-AUG-2025.pdf)
+- [Dowload here (PDF)](https://raw.githubusercontent.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing/master/Kahl_P_Epistemic_Violence_or_Simply_Good_Marketing_v3_2025-10-17.pdf)
 
 ## Cite this work
 
-Kahl, P. (2025). Epistemic Violence or Simply Good Marketing? Why University Marketing May Not Be So Innocent (v2). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing
+Kahl, P. (2025). _Epistemic violence or simply good marketing? Why university marketing may not be so innocent_ (v3). Lex et Ratio Ltd. https://github.com/Peter-Kahl/Epistemic-Violence-or-Simply-Good-Marketing DOI: https://doi.org/10.5281/zenodo.17378350
 
 ### Publisher & Licence
 
 First published in Great Britain by Peter Kahl on 10 June 2025.\
 v2 published by Lex et Ratio Ltd on 18 August 2025.
+v3 published by Lex et Ratio Ltd on 17 October 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
 You may share this work for non-commercial purposes with attribution and without modification.\
