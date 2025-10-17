@@ -2,7 +2,7 @@
 
 ### Why University Marketing May Not Be So Innocent
 
-by Peter Kahl, 2025-06-10; v2: 2025-08-18
+by Peter Kahl, 2025-06-10; v2: 2025-08-17
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17378350.svg)](https://doi.org/10.5281/zenodo.17378350) [![Generic badge](https://img.shields.io/badge/ORCID-0009–0003–1616–4843-green.svg)](https://orcid.org/0009-0003-1616-4843)
 
@@ -29,7 +29,7 @@ Kahl, P. (2025). _Epistemic violence or simply good marketing? Why university ma
 ### Publisher & Licence
 
 First published in Great Britain by Peter Kahl on 10 June 2025.\
-v2 published by Lex et Ratio Ltd on 18 August 2025.
+v2 published by Lex et Ratio Ltd on 18 August 2025.\
 v3 published by Lex et Ratio Ltd on 17 October 2025.
 
 © 2025 Lex et Ratio Ltd. Licensed under Creative Commons BY-NC-ND 4.0.\
